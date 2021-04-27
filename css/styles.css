@@ -1,0 +1,60 @@
+h1{
+	text-align: center;
+	margin-top:50px;
+}
+*{
+	box-sizing:border-box;
+}
+
+
+.row > div {
+    border:2px solid black;
+    padding:0px;
+    background-color:grey;
+    
+
+  } 
+
+
+ section{
+ 	margin-left:auto;
+ 	margit-right:0px;
+
+ }
+
+ 
+div p{
+	padding :10px;
+}
+
+
+div section.c{
+    border:2px solid black;
+    background-color:pink;
+    width:150px;
+    text-align:center;
+    font-family: Monospace;
+    font-size: 22px;
+
+
+
+}
+div section.b{
+    border:2px solid black;
+    background-color:red;
+    width:150px;
+    font-family: Monospace;
+    font-size: 22px;
+    text-align:center;
+
+}
+div section.s{
+    border:2px solid black;
+    background-color:yellow;
+    width:150px;
+    font-family: Monospace;
+    font-size: 22px;
+    text-align:center;
+}
+
+
